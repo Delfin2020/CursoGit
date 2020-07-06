@@ -21,3 +21,5 @@ print('Esto es una prueba')
 # F en el chat
 
 # Comentario perrón
+
+#F X2
